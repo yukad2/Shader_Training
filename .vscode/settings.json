@@ -1,4 +1,4 @@
-﻿{
+{
     "files.exclude":
     {
         "**/.DS_Store":true,
@@ -17,7 +17,6 @@
         "**/*.mid":true,
         "**/*.midi":true,
         "**/*.wav":true,
-        "**/*.gif":true,
         "**/*.ico":true,
         "**/*.jpg":true,
         "**/*.jpeg":true,
@@ -51,6 +50,6 @@
         "Obj/":true,
         "ProjectSettings/":true,
         "temp/":true,
-        "Temp/":true
+        "Temp/":true,
     }
 }
